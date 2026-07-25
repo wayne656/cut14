@@ -17,4 +17,6 @@ npm run dev
 
 ## Production
 
-Pushes to `main` deploy automatically to GitHub Pages via Actions.
+Live site: https://wayne656.github.io/cut14/
+
+Deployed from the `gh-pages` branch (built `dist` output).
